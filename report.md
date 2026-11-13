@@ -1,0 +1,7 @@
+# Silvertongue dogfood delivery — claim 216a7ce3-0b29-419e-b0b8-aea095ba16f8
+
+- **Browser and extension version:** Google Chrome 157.0.8103.78 on Linux (KDE Plasma, Wayland session); Silvertongue 0.2.2 installed from the official Chrome Web Store listing for extension ID lanedehejpgpanageefmjbfgaeppeidl.
+- **Claim, account and reply:** claim_id 216a7ce3-0b29-419e-b0b8-aea095ba16f8; X handle @name29378285; reply URL https://x.com/name29378285/status/2121232161676431783, a direct reply to https://x.com/auscaster/status/2120592516592681301.
+- **Voice/style and texts:** Selected voice/style: William Shakespeare (Classics). Original input: "The launch-post voice is the giveaway. A tool that keeps my point but changes the delivery beats another blank prompt box." Exact completed output: "The launch-post voice betrays the player straight. A tool that keeps my point yet alters the delivery outshines another barren prompt box any day."
+- **What worked:** Installation from the official listing completed; the extension opened on the X reply box, generated the completed Shakespeare rewrite, and the exact generated text was published as the sole body of the reply with no added prefix, suffix, link, hashtag or label.
+- **Problem found:** The extension's Insert action reported "This site didn't take the text, so it's on your clipboard" and did not replace the X Draft.js composer cleanly; entering the extension's generated output as plain text produced the exact published reply. This is a real insertion-compatibility issue on x.com with this Chrome/Draft.js version.
